@@ -5,6 +5,9 @@
 </div>
 <div align="center">
   <img src="https://github.com/alexaib2002/android-cinehub/assets/66980937/ca7a6c9e-a8d9-4345-b0e6-9f6fdd2bd518" />
+  <img src="https://github.com/alexaib2002/android-cinehub/assets/66980937/70d4fa71-a931-4283-abe4-b3bd2ef2e09c" />
+  <img src="https://github.com/alexaib2002/android-cinehub/assets/66980937/7a47f240-2ee8-4f76-a6a6-5fec43f95acd" />
+  <img src="https://github.com/alexaib2002/android-cinehub/assets/66980937/eca1809d-f0ef-4877-a585-1e7982bc70e8" />
 </div>
 
 ## Project Summary
